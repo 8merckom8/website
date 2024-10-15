@@ -1,0 +1,290 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+	
+		<title>Merckom Ltd.</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width,initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel='shortcut icon' href='favicon.ico' type='image/x-icon'/ >
+		<style type="text/css">  
+			label {font-size: 16px;}
+			.rwd-line { display: block;}
+        		@media screen and (min-width: 768px){.rwd-line { display: inline; }}
+			@media screen and (max-width: 414px){h2 .rwd-line { display: inline; font-size: 18px; }}
+        </style>
+        <!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-5VJ9K8');</script>
+	<!-- End Google Tag Manager -->
+	<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+	</head>
+	<body>
+	<!-- Google Tag Manager (noscript) -->
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5VJ9K8"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+
+		<!-- Header -->
+			<header id="header" class="alt">
+				<div class="inner">
+                    <a class="logo"><img style="width: 100%; height: auto;" src="images/Merckom-new-web-b.png" alt="" /></a>
+					<!-- <h1></h1> 
+					<p><a></a></p> -->
+				</div>
+			</header>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Banner -->
+					<section id="intro" class="main">
+						<span class="icon fa-anchor major"></span>
+
+
+
+<h2>
+	<span class="rwd-line"><span class="tag fa fa-circle fa-1" ></span> firmitas <span class="tag fa fa-circle fa-1" ></span> </span>
+	<span class="rwd-line">obsequium <span class="tag fa fa-circle fa-1" > </span> fiduciam </span>
+	<span class="rwd-line"><span class="tag fa fa-circle fa-1 " ></span> lucrum <span class=" tag fa fa-circle fa-1" > </span></span>
+</h2>
+
+
+						<p>At Merckom we believe in stability.</br> 
+							We ensure that we provide consistent high quality service. whilst building trust.<!--- </br> 
+							So our customers reap profits.</br>--></p>
+							
+					<!---	<ul class="actions">
+							<li><a href="#" class="button big">Learn More</a></li>
+						</ul> -->
+					</section>
+
+				<!-- Items -->
+					<section class="main items">
+						<article class="item">
+							<header>
+								<a><img src="images/ecomm1.1.jpg" alt="" /></a>
+								<h3 style="font-size: 22px; font-weight: bold;">e-Commerce</h3>
+							</header>
+							<p>We have established, implemented and manage several end-to-end retail e-commerce ventures.</br> They span across the luxury and apparel segments.</br> We ensure that the alignment with our customers wants and needs is precise. </p>
+							<!-- <ul class="actions">
+								<li><a href="#" class="button">More</a></li>
+							</ul> -->
+						</article>
+						<article class="item">
+							<header>
+								<a><img src="images/sourcing1.1.jpg" alt="" /></a>
+								<h3 style="font-size: 22px; font-weight: bold;">Sourcing</h3>
+							</header>
+							<p>We have over 10 years of experience in sourcing from South Asia and South East Asia, in particular China, Vietnam and India. We specialise in sourcing footwear, high quality leather products, textiles and organic produce amongst others.</br> Our customers are from the UK, mainland Europe and Scandinavia.</p>
+							<!-- <ul class="actions">
+								<li><a href="#" class="button">More</a></li>
+							</ul> -->
+						</article>
+					<!--	<article class="item">
+							<header>
+								<a href="#"><img src="images/pic03.jpg" alt="" /></a>
+								<h3>Lorem massa nulla</h3>
+							</header>
+							<p>Fusce malesuada efficitur venenatis. Pellentesque tempor leo sed massa hendrerit hendrerit. In sed feugiat est, eu congue elit. Ut porta magna vel felis sodales vulputate. Donec faucibus dapibus lacus non ornare.</p>
+							<ul class="actions">
+								<li><a href="#" class="button">More</a></li>
+							</ul>
+						</article>
+						<article class="item">
+							<header>
+								<a href="#"><img src="images/pic04.jpg" alt="" /></a>
+								<h3>Ipsum sed tempus</h3>
+							</header>
+							<p>Fusce malesuada efficitur venenatis. Pellentesque tempor leo sed massa hendrerit hendrerit. In sed feugiat est, eu congue elit. Ut porta magna vel felis sodales vulputate. Donec faucibus dapibus lacus non ornare.</p>
+							<ul class="actions">
+								<li><a href="#" class="button">More</a></li>
+							</ul>
+						</article> -->
+					</section>
+
+				<!-- CTA -->
+					<section id="cta" class="main special">
+<h3>
+	<span class="rwd-line"><span class="tag2 fa fa-circle fa-1" ></span> stability <span class="tag2 fa fa-circle fa-1" ></span> </span>
+	<span class="rwd-line">service <span class="tag2 fa fa-circle fa-1" > </span> trust </span>
+	<span class="rwd-line"><span class="tag2 fa fa-circle fa-1 " ></span> profit <span class=" tag2 fa fa-circle fa-1" > </span></span>
+</h3>
+						<p>We work very closely with our clients.<br />
+						We are therefore selective with who we work with.<br />
+						If you'd like to engage us please send us a message below.</p>
+					<!--	<ul class="actions">
+							<li><a href="#" class="button big">Get Started</a></li>
+						</ul> -->
+					</section>
+
+				<!-- Main -->
+				<!--
+					<section id="main" class="main">
+						<header>
+							<h2>Lorem ipsum dolor</h2>
+						</header>
+						<p>Fusce malesuada efficitur venenatis. Pellentesque tempor leo sed massa hendrerit hendrerit. In sed feugiat est, eu congue elit. Ut porta magna vel felis sodales vulputate. Donec faucibus dapibus lacus non ornare. Etiam eget neque id metus gravida tristique ac quis erat. Aenean quis aliquet sem. Ut ut elementum sem. Suspendisse eleifend ut est non dapibus. Nulla porta, neque quis pretium sagittis, tortor lacus elementum metus, in imperdiet ante lorem vitae ipsum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam eget neque id metus gravida tristique ac quis erat. Aenean quis aliquet sem. Ut ut elementum sem. Suspendisse eleifend ut est non dapibus. Nulla porta, neque quis pretium sagittis, tortor lacus elementum metus, in imperdiet ante lorem vitae ipsum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+					</section>
+				-->
+
+				<!-- Footer -->
+
+					<footer id="footer">
+						<div class="inner">
+							
+<?php
+if(isset($_POST['submit'])):
+    if(isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response'])):
+        //your site secret key
+        $secret = '6LdMWQkUAAAAAHh0iamcgDWfMn5w0zAM2NXn9QM-';
+        //get verify response data
+        $verifyResponse = file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret='.$secret.'&response='.$_POST['g-recaptcha-response']);
+        $responseData = json_decode($verifyResponse);
+        
+        $name = !empty($_POST['name'])?$_POST['name']:'';
+        $email = !empty($_POST['email'])?$_POST['email']:'';
+        $message = !empty($_POST['message'])?$_POST['message']:'';
+        if($responseData->success):
+            //contact form submission code
+            $to = 'so@merckom.com';
+            $subject = 'Message from merckom.com - Contact Form';
+            $htmlContent = "
+                <h1>Contact request details</h1>
+                <p><b>Name: </b>".$name."</p>
+                <p><b>Email: </b>".$email."</p>
+                <p><b>Message: </b>".$message."</p>
+            ";
+            // Always set content-type when sending HTML email
+            $headers = "MIME-Version: 1.0" . "\r\n";
+            $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
+            // More headers
+            $headers .= 'From:'.$name.' <'.$email.'>' . "\r\n";
+            //send email
+            @mail($to,$subject,$htmlContent,$headers);
+            
+            $succMsg = 'Email Sent!';
+            $name = '';
+            $email = '';
+            $message = '';
+        else:
+            $errMsg = 'Robot verification failed, please try again.';
+        endif;
+    else:
+        $errMsg = 'Please click on the reCAPTCHA box.';
+    endif;
+else:
+    $errMsg = '';
+    $succMsg = '';
+    $name = '';
+    $email = '';
+    $message = '';
+endif;
+?>
+
+<form action="" method="post" >
+		<div class="field half first">
+			<label for="name">Name</label>
+				<input type="text" class="text" id="name" required="" value="<?php echo !empty($name)?$name:''; ?>" placeholder="Your full name" required="" name="name" >
+		</div>
+		<div class="field half">
+			<label for="email">Email</label>
+				<input type="text" class="text" id="email"  required="" value="<?php echo !empty($email)?$email:''; ?>" placeholder="Email" required="" name="email" >
+		</div>
+		<div class="field">
+			<label for="message">Message</label>
+				<textarea type="text" id="message" rows="6" placeholder="Message..." required="" name="message"><?php echo !empty($message)?$message:''; ?></textarea>
+		</div>
+			<?php if(!empty($errMsg)): ?><div class="errMsg"><?php echo $errMsg; ?></div><?php endif; ?>
+			<?php if(!empty($succMsg)): ?><div class="succMsg"><?php echo $succMsg; ?></div><?php endif; ?>
+		<div align="center" style="padding-bottom: 20px;"> <div class="g-recaptcha" data-sitekey="6LdMWQkUAAAAAOt0Z3dpV02f56JoMxcAPRV558Gt"></div></div>
+			<ul class="actions">
+				<li><input name="submit" class="button alt" type="submit" value="SUBMIT"></li>
+			</ul>
+</form>
+
+				</div>
+					<!--	<ul class="icons">
+							<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+							<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+							<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+							<li><a href="#" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
+							<li><a href="#" class="icon fa-envelope"><span class="label">Email</span></a></li>
+						</ul> -->
+						<p class="copyright">&copy; 2022 Merckom Ltd. All Rights Reserved</a>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
