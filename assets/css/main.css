@@ -1183,7 +1183,7 @@
 					width: 100%;
 					height: 100%;
 					background-color: rgba(0, 0, 0, 0.25);
-					/*background-image: url("images/overlay.png");*/
+					background-image: url("images/overlay.png");
 				}
 
 			.item header:hover a {
@@ -1321,7 +1321,7 @@
 /* Header */
 
 	#header {
-		background-color: #07152D;
+		background-color: #444;
 		color: rgba(255, 255, 255, 0.75);
 		display: -moz-flex;
 		display: -webkit-flex;
@@ -1340,7 +1340,7 @@
 		-ms-flex-direction: column;
 		flex-direction: column;
 		padding: 8em 0 6em 0;
-		/*background-image: url("../../images/banner6.1.jpg");*/
+		background-image: url("../../images/banner6.1.jpg");
 		background-size: cover;
 		background-position: center;
 		background-attachment: fixed;
@@ -1391,7 +1391,7 @@
 			width: 100%;
 			height: 100%;
 			background-color: rgba(0, 0, 0, 0.25);
-			/*background-image: url("images/overlay.png");*/
+			background-image: url("images/overlay.png");
 		}
 
 		#header h1 {
@@ -1405,7 +1405,7 @@
 		}
 
 		#header.alt {
-			height: 60em;
+			height: 40em;
 			min-height: 20em;
 			min-height: 75vh;
 		}
