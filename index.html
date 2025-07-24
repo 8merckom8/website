@@ -215,12 +215,16 @@ endif;
 							<li><a href="#" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
 							<li><a href="#" class="icon fa-envelope"><span class="label">Email</span></a></li>
 						</ul> -->
-						<p class="copyright">&copy; 2024 Merckom Ltd. All Rights Reserved</a>
+						<p class="copyright">&copy; <span id="current-year"></span> Merckom Ltd. All Rights Reserved</a>
 					</footer>
 
 			</div>
 
 		<!-- Scripts -->
+
+	<script>
+    document.getElementById("current-year").textContent = new Date().getFullYear();
+  </script>
 			<script src="assets/js/jquery.min.js"></script>
 			<script src="assets/js/skel.min.js"></script>
 			<script src="assets/js/util.js"></script>
